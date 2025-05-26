@@ -1,0 +1,3 @@
+name = "rathblogoffline"
+main = "offline-page.js"
+compatibility_date = "2025-05-26"
