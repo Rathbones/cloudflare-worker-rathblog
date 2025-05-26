@@ -53,13 +53,19 @@ The worker can be configured through the `wrangler.toml` file. Make sure to set 
 ## 🤝 Contributing
 
 1. Fork the repository
-2. Create your feature branch```bash
+2. Create your feature branch
+```bash
     git checkout -b feature/amazing-feature
-```3. Commit your changes```bash
+```
+3. Commit your changes
+```bash
 git commit -m 'Add some amazing feature'
-```4. Push to the branch```bash
+```
+4. Push to the branch
+```bash
 git push origin feature/amazing-feature
-```5. Open a Pull Request
+```
+5. Open a Pull Request
 
 ## 📝 License
 
